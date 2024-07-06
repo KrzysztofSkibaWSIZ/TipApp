@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="calculate_tip">Oblicz napiwek</string>
+    <string name="bill_amount">Kwota rachunku</string>
+    <string name="round_up_tip">Zaokrąglaj napiwek?</string>
+    <string name="save_tip">Zapisz napiwek</string>
+    <string name="tip_amount">Kwota napiwku: %s</string>
+    <string name="tip_per_person">Kwota podzielonego napiwku: %s</string>
+    <string name="split_between_people">Na ile ludzi podzielić napiwek</string>
+    <string name="tip_history">Historia Napiwków</string>
+    <string name="how_was_the_service">% z napiwku</string>
+</resources>
